@@ -1,3 +1,5 @@
+<img width="1920" height="1200" alt="Screenshot 2026-03-21 161713" src="https://github.com/user-attachments/assets/bb45aee7-243f-4ba3-b808-82d448cd9a4d" />
+
 # Student Feedback Registration Form
 
 This project contains a Student Feedback Registration Form built with HTML, CSS, and JavaScript, along with Selenium tests and Jenkins automation.
@@ -40,4 +42,4 @@ Open `index.html` in a web browser.
 8. Save the job.
 9. Click "Build Now" to run the tests.
 10. Check the console output for results.
-11. <img width="1920" height="1200" alt="Screenshot 2026-03-21 161713" src="https://github.com/user-attachments/assets/bb45aee7-243f-4ba3-b808-82d448cd9a4d" />
+
