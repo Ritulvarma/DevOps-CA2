@@ -60,7 +60,7 @@ try:
     # Test 4: Enter invalid email format and verify validation
     driver.find_element(By.ID, "resetBtn").click()
     driver.find_element(By.ID, "name").send_keys("Ritul Varma")
-    driver.find_element(By.ID, "email").send_keys("ritul.varma@gamil.com")
+    driver.find_element(By.ID, "email").send_keys("invalid@")
     driver.find_element(By.ID, "mobile").send_keys("9422714321")
     driver.find_element(By.ID, "department").send_keys("Computer Science")
     driver.find_element(By.ID, "female").click()
